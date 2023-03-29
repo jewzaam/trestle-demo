@@ -1,4 +1,8 @@
 ---
+x-trestle-comp-def-rules:
+  This System:
+    - name: Test-rule_002
+      description: Some new rule description
 x-trestle-global:
   profile:
     title: ACME Inc. internal controls profile.
